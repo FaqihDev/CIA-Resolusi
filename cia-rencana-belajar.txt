@@ -3,6 +3,9 @@ RENCANA BELAJAR
 - Javascript
   *ES6
   *Framework Javascript
+    ^ Angular 
+    ^ React
 - Spring
 - Project  
-- Struktur Data Dasar
+- Laravel
+ 
