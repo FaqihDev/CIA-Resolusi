@@ -3,6 +3,9 @@ RENCANA BELAJAR
 - Javascript
   *ES6
   *Framework Javascript
+    ^ Vue
 - Spring
+- ^ Laravel
 - Project  
 - Struktur Data Dasar
+- Python
