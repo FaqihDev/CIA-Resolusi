@@ -1,0 +1,7 @@
+RENCANA BELAJAR 
+- Java 
+- Javascript
+  *ES6
+  *Framework Javascript
+- Spring
+- Project  
