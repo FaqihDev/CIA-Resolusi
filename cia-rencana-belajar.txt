@@ -4,6 +4,7 @@ RENCANA BELAJAR
   *ES6
   *Framework Javascript
     ^ Vue
+    ^ React
 - Spring
 - ^ Laravel
 - Project  
